@@ -1,0 +1,11 @@
+# Save this file as config.yml and insert your own values
+
+# Chat with the @botfather to create a Telegram bot
+bot_id:  bot123456789:ASJkfjGkEMKsF546-KAkFsgfewklWAaGkfk
+
+# You get this via the bot API once you've used your bot once.
+# More info: https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id
+chat_id: 123456789
+
+hosts:
+  example: "http://example.com/"
