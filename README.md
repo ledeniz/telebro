@@ -1,5 +1,5 @@
 # Telebro
-Alerts you via Telegram if one a certain webserver is not available. 
+Alerts you via Telegram if a certain webserver is not available. 
 
 ## Description
 A simple python script, which checks certain URLs (read from `config.yml`) and triggers a Telegram chatbot in case
