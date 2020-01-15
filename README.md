@@ -27,7 +27,10 @@ More info: https://core.telegram.org/bots
 ### How do I get my chat ID?
 #### You get it via the bot API once you've used your bot once.
 
+```https://api.telegram.org/bot<YourBOTToken>/getUpdates```
+
 More info: https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id
+
 
 ### Why Telegram! I Hate Telegram! It's Evil! You're evil! Why not E-Mail!
 #### Yes.
